@@ -1,4 +1,4 @@
-# packer\_product\_aws
+# packer\_product\_eurostar
 
 *This repo does nothing by itself - it is expected to be cloned
 within a project's own checkout, along with the repo _packer_includes_.
